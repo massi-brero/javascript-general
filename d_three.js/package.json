@@ -1,0 +1,7 @@
+{
+  "name": "d_three.js",
+  "version": "1.0.0",
+  "dependencies": {
+    "d3": "^6.3.1"
+  }
+}

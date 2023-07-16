@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="154a9392-6803-4b6f-8c6d-e49eecb4a7e4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="package.json" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lfP5wtDAQzfyuHC6VZgkGpafu9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/d3-example.js/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="154a9392-6803-4b6f-8c6d-e49eecb4a7e4" name="Default Changelist" comment="" />
+      <created>1607984992242</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607984992242</updated>
+      <workItem from="1607984993331" duration="825000" />
+      <workItem from="1608069531593" duration="2389000" />
+      <workItem from="1608152063027" duration="334000" />
+      <workItem from="1608152859531" duration="169000" />
+      <workItem from="1608153279477" duration="140000" />
+      <workItem from="1608154265839" duration="417000" />
+      <workItem from="1608155205958" duration="4547000" />
+      <workItem from="1608240865013" duration="2526000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="109" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608071226461">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="109" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900/1440.-393.1920.1080@0.0.1440.900" timestamp="1608071226461" />
+    <state width="1419" height="223" key="GridCell.Tab.0.bottom" timestamp="1608238403449">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1419" height="223" key="GridCell.Tab.0.bottom/0.25.1440.875/1440.-155.1920.1055@0.25.1440.875" timestamp="1608238403449" />
+    <state width="1419" height="223" key="GridCell.Tab.0.center" timestamp="1608238403447">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1419" height="223" key="GridCell.Tab.0.center/0.25.1440.875/1440.-155.1920.1055@0.25.1440.875" timestamp="1608238403447" />
+    <state width="1419" height="223" key="GridCell.Tab.0.left" timestamp="1608238403447">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1419" height="223" key="GridCell.Tab.0.left/0.25.1440.875/1440.-155.1920.1055@0.25.1440.875" timestamp="1608238403447" />
+    <state width="1419" height="223" key="GridCell.Tab.0.right" timestamp="1608238403448">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1419" height="223" key="GridCell.Tab.0.right/0.25.1440.875/1440.-155.1920.1055@0.25.1440.875" timestamp="1608238403448" />
+    <state x="100" y="125" width="1240" height="675" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1608156640605">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="100" y="125" width="1240" height="675" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.25.1440.875/1440.-155.1920.1055@0.25.1440.875" timestamp="1608156640605" />
+  </component>
+</project>
